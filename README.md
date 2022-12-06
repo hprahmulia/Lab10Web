@@ -18,6 +18,6 @@ Lalu Berikut nya kita buat Form.php pada visual code dengan script terlampir sep
 ![SS1](https://user-images.githubusercontent.com/99000657/205918734-fba4d71c-9fb9-4bcb-b156-4b742ecd32de.PNG)
 
 
-Lalu Berikut nya kita buat Form.php pada visual code dengan script terlampir seperti tampilan di bawah ini : 
+Lalu Berikut nya kita buat Form_input.php pada visual code dengan script terlampir seperti tampilan di bawah ini : 
 
 ![SS3](https://user-images.githubusercontent.com/99000657/205918739-f1071f37-d216-402a-9dcb-a6044bd11a72.PNG)
